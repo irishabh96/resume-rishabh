@@ -1,0 +1,34 @@
+{
+  "name": "resume-rishabh",
+  "bin": {
+    "resume-rishabh": "./index.js"
+  },
+  "version": "1.0.4",
+  "description": "Resume for Rishabh Bhatia",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irishabh96/resume-rishabh.git"
+  },
+  "keywords": [
+    "Rishabh Bhatia",
+    "Fullstack Developer",
+    "Resume",
+    "Resume Rishabh",
+    "resume-rishabh"
+  ],
+  "author": {
+    "name": "Rishabh Bhatia",
+    "email": "hello@rishb.in",
+    "url": "https://www.rishb.in"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^7.0.0"
+  },
+  "homepage": "https://www.rishb.in"
+}

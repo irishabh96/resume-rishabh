@@ -1,0 +1,22 @@
+{
+  "Education": ["Bunked School", "Admitted in College 😖"],
+  "Experience": [
+    "Started coding in college days",
+    "Got first freelance while learning",
+    "Got a fulltime job",
+    "Exploring world 🤓"
+  ],
+  "Tech Stack": ["ci_cd.sh", "helloWorld.js", "Button.jsx", "basic-code.py", "binary.go"],
+  "Freelance Projects": [
+    "RecruitMe - As name suggest!",
+    "Guidezang - Saas Application",
+    "Shopfocallure.com - E-commerce",
+    "GoVoiletWhite - Social Media",
+    "Zealth.ai - Healthcare",
+    "Fairphonic - Media Platforms 🎤",
+    "Qdesq - Property Aggregator 🏠",
+    "Scrappers - Paytm, linkedIn, Amazon"
+  ],
+  "Current Job": ["Browserstack - Unicorn Testing Platform"],
+  "Contact": ["hello@rishb.in", "+91-9999893268"]
+}
